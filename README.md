@@ -2,7 +2,7 @@
 
 
 
-_Please Download this file Seperately to avoid error_   
+_Please Download 'weight' file Seperately to avoid error_   
 _make "yolo" folder in your gdrive first and put all the files before you run ipynb file_
 
 ### custom.names
