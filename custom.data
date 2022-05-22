@@ -1,0 +1,5 @@
+classes = 32
+train = fashion_data/train.txt
+valid = fashion_data/valid.txt
+names = custom.names
+backup = fashion_data/back_up/
